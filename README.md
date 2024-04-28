@@ -12,7 +12,7 @@ ParliaGPT is an FAQ Bot that answers questions and provides relevant contextual 
 
 | Official Full Name  | Student ID (MTech Applicable)  | Work Items (Who Did What) | Email (Optional) |
 | :------------ |:---------------:| :-----| :-----|
-| Yong Ting Rui | E1339749 | Developed the system design and implemented the prototype frontend and backend. Drafted the project proposal and development of both technical architecture and business proposal videos | E1339749@u.nus.edu |
+| Yong Ting Rui | E1339479 | Developed the system design and implemented the prototype frontend and backend. Drafted the project proposal and development of both technical architecture and business proposal videos | E1339479@u.nus.edu |
 
 ---
 
