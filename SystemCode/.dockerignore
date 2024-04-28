@@ -1,0 +1,7 @@
+# Exclude these directories and its contents
+./process_data
+./webmine
+
+# Exclude these files
+**/process_data.py
+**/webmine.py

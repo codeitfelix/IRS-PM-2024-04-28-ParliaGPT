@@ -1,0 +1,19 @@
+--extra-index-url https://download.pytorch.org/whl/cu118
+torch==2.1.2
+torchvision==0.16.2
+torchaudio==2.1.2
+sentence-transformers
+transformers==4.36.2
+huggingface-hub
+spacy==3.7.4
+en_core_web_sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1-py3-none-any.whl
+chromadb
+duckdb
+gradio
+tqdm
+pandas
+rank-bm25
+ipywidgets
+accelerate
+auto-gptq==0.6.0
+optimum==1.16.2
